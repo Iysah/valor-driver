@@ -1,0 +1,58 @@
+{
+    "requests": [
+        {
+            "type": "Date Adjustment",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Pending"
+        },
+        {
+            "type": "Date Adjustment",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Declined"
+        },
+        {
+            "type": "Time Adjustment",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Approved"
+        },
+        {
+            "type": "Time Adjustment",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Pending"
+        },
+        {
+            "type": "Car Replacement",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Approved"
+        },
+        {
+            "type": "Car Replacement",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Declined"
+        },
+        {
+            "type": "Destination Change",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Pending"
+        },
+        {
+            "type": "Destination Change",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Declined"
+        },
+        {
+            "type": "Date Adjustment",
+            "vehicle": "Lexus 360 - MKV-123-YYT",
+            "datetime": "28 Sept, 6:30pm",
+            "status": "Approved"
+        }
+    ]
+}

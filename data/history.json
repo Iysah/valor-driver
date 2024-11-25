@@ -1,0 +1,109 @@
+{
+    "vehicles": [
+      {
+        "image": "toyota-corolla",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XL 567 LSR",
+        "location": {
+          "street": "3817, Edwards Rd",
+          "city": "Cedar Hill",
+          "state": "Vermont",
+          "zipCode": "82149"
+        },
+        "startDate": "June 18",
+        "endDate": "August 20",
+        "status": "Completed"
+      },
+      {
+        "image": "toyota-corolla",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XL 567 LSR",
+        "location": {
+          "street": "3817, Edwards Rd",
+          "city": "Cedar Hill",
+          "state": "Vermont",
+          "zipCode": "82149"
+        },
+        "startDate": "July 8",
+        "endDate": "July 8",
+        "status": "Dispute"
+      },
+      {
+        "image": "toyota-corolla",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XL 567 LSR",
+        "location": {
+          "street": "3817, Edwards Rd",
+          "city": "Cedar Hill",
+          "state": "Vermont",
+          "zipCode": "82149"
+        },
+        "startDate": "July 8",
+        "endDate": "July 8",
+        "status": "Dispute"
+      },
+      {
+        "image": "toyota-corolla",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XL 567 LSR",
+        "location": {
+          "street": "3817, Edwards Rd",
+          "city": "Cedar Hill",
+          "state": "Vermont",
+          "zipCode": "82149"
+        },
+        "startDate": "July 8",
+        "endDate": "July 8",
+        "status": "Completed"
+      },
+      {
+        "image": "toyota-corolla",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XL 567 LSR",
+        "location": {
+          "street": "3817, Edwards Rd",
+          "city": "Cedar Hill",
+          "state": "Vermont",
+          "zipCode": "82149"
+        },
+        "startDate": "July 8",
+        "endDate": "July 8",
+        "status": "Dispute"
+      },
+      {
+        "image": "toyota-corolla",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XL 567 LSR",
+        "location": {
+          "street": "3817, Edwards Rd",
+          "city": "Cedar Hill",
+          "state": "Vermont",
+          "zipCode": "82149"
+        },
+        "startDate": "July 8",
+        "endDate": "July 8",
+        "status": "Completed"
+      },
+      {
+        "image": "toyota-corolla",
+        "make": "Toyota",
+        "model": "Corolla",
+        "trim": "XL 567 LSR",
+        "location": {
+          "street": "3817, Edwards Rd",
+          "city": "Cedar Hill",
+          "state": "Vermont",
+          "zipCode": "82149"
+        },
+        "startDate": "July 8",
+        "endDate": "July 8",
+        "status": "Dispute"
+      }
+    ]
+  }
